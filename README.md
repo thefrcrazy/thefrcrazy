@@ -22,18 +22,42 @@
 
 ## 🛠 &nbsp;Languages and Tools
 <p>
-    <img alt="HTML" title="HTML" href="https://www.w3.org/html/" height="55" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-    <img alt="CSS" title="CSS" href="https://www.w3schools.com/css/" height="55" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-    <img alt="JavaScript" title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img alt="LUA" title="LUA" href="https://www.lua.org/about.html" height="40" width="auto" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg">
-    <img alt="JQuery" title="JQuery" href="https://jquery.com/" height="40" width="auto" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg">
-    <img alt="Angular" title="Angular" href="https://angular.io/" height="48" width="auto" src="https://angular.io/assets/images/logos/angular/angular.svg">
-    <img alt="Sass" title="Sass" href="https://sass-lang.com/" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img alt="TypeScript" title="TypeScript" href="https://www.typescriptlang.org/" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-    <img alt="MongoDB" title="MongoDB" href="https://www.mongodb.com/" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-    <img alt="MySQL" title="MySQL" href="https://www.mysql.com/" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-    <img alt="Git" title="Git" href="https://git-scm.com/" height="48" width="auto" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    <img alt="VSCode" title="VSCode" href="https://code.visualstudio.com/" height="48" width="auto" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img alt="HTML" title="HTML" height="55" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img alt="CSS" title="CSS" height="55" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img alt="JavaScript" title="JavaScript" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  </a>
+  <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer">
+    <img alt="LUA" title="LUA" height="40" width="auto" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg">
+  </a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
+    <img alt="JQuery" title="JQuery" height="40" width="auto" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg">
+  </a>
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
+    <img alt="Angular" title="Angular" height="48" width="auto" src="https://angular.io/assets/images/logos/angular/angular.svg">
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
+    <img alt="Sass" title="Sass" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img alt="TypeScript" title="TypeScript" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img alt="MongoDB" title="MongoDB" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img alt="MySQL" title="MySQL" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img alt="Git" title="Git" height="48" width="auto" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img alt="VSCode" title="VSCode" height="48" width="auto" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+  </a>
 </p>
 
 ##
