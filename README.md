@@ -54,7 +54,7 @@
   </a>
   
   <a href="https://ejs.co/" target="_blank" rel="noreferrer">
-    <img alt="EJS" title="EJS" height="40" width="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pJyfkMz2SmehRXPHxQvDrMhciqv7ZeHRO2B-lHSoBjL5P0Zfza8ZJlWvwkoJbvS8atY&usqp=CAU">
+    <img alt="EJS" title="EJS" height="40" width="auto" src="https://cdn.discordapp.com/attachments/1067939114290253895/1070173050353492068/ejs_icon_132422.png">
   </a>
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
