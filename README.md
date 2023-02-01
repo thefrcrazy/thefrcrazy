@@ -37,7 +37,7 @@
   <a href=" https://fr.wikipedia.org/wiki/Java_(langage)" target="_blank" rel="noreferrer">
     <img alt="Java" title="Java" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/131px-Java_Logo.svg.png">
   </a>
-  <a href="[https://www.lua.org/about.html](https://learn.microsoft.com/fr-fr/dotnet/csharp/)" target="_blank" rel="noreferrer">
+  <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img alt="C#" title="C#" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png">
   </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
