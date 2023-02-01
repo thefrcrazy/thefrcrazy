@@ -56,10 +56,6 @@
   <a href="https://ejs.co/" target="_blank" rel="noreferrer">
     <img alt="EJS" title="EJS" height="40" width="auto" src="https://cdn.discordapp.com/attachments/1067939114290253895/1070173050353492068/ejs_icon_132422.png">
   </a>
-  <a href="https://fr.wikipedia.org/wiki/Express.js" target="_blank" rel="noreferrer">
-    <img alt="express" title="Express JS" height="40" width="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdjuU7uhXx0_ES2SMQc1RJYpJ-HjJC1fWOTqhPCPPydumFnbx7TTP2GY8RDpVcXGue6yk&usqp=CAU">
-  </a>
-  
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img alt="MongoDB" title="MongoDB" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
