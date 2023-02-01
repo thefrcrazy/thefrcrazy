@@ -34,6 +34,12 @@
   <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer">
     <img alt="LUA" title="LUA" height="40" width="auto" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg">
   </a>
+  <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer">
+    <img alt="Java" title="Java" height="40" width="auto" src="https://fr.wikipedia.org/wiki/Java_(langage)">
+  </a>
+  <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer">
+    <img alt="C#" title="C#" height="40" width="auto" src="https://learn.microsoft.com/fr-fr/dotnet/csharp/">
+  </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
     <img alt="JQuery" title="JQuery" height="40" width="auto" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg">
   </a>
