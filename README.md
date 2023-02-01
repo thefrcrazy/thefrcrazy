@@ -52,6 +52,11 @@
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img alt="TypeScript" title="TypeScript" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   </a>
+  
+  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
+    <img alt="EJS" title="EJS" height="40" width="auto" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pJyfkMz2SmehRXPHxQvDrMhciqv7ZeHRO2B-lHSoBjL5P0Zfza8ZJlWvwkoJbvS8atY&usqp=CAU">
+  </a>
+  
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img alt="MongoDB" title="MongoDB" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
   </a>
