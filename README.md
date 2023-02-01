@@ -34,7 +34,7 @@
   <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer">
     <img alt="LUA" title="LUA" height="40" width="auto" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg">
   </a>
-  <a href=" https://fr.wikipedia.org/wiki/Java_(langage)" target="_blank" rel="noreferrer">
+  <a href="https://fr.wikipedia.org/wiki/Java_(langage)" target="_blank" rel="noreferrer">
     <img alt="Java" title="Java" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/131px-Java_Logo.svg.png">
   </a>
   <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank" rel="noreferrer">
