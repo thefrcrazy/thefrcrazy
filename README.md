@@ -8,6 +8,7 @@
 - 🧑‍💻 &nbsp; Self Taught Frontend Developer.
 - 🤔 &nbsp; Passionate about video games, so I create scripts and UI game.
 - 👨🏻‍💻 &nbsp; Freelancer.
+- 🚫 5 private repo.
 
 <br>
 <p align="left"> 
