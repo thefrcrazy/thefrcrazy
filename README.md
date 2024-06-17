@@ -21,6 +21,7 @@
 [![Icloud Badge](https://img.shields.io/badge/-maxcol901@icloud.com-0082FF?style=flat-square&logo=icloud&logoColor=white&link=mailto:maxcol901@icloud.com)](mailto:maxcol901@icloud.com)
 
 ## 🛠 &nbsp;Languages and Tools
+- VS Code settings https://github.com/thefrcrazy/vscode-settings
 <p>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img alt="HTML" title="HTML" height="55" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
@@ -72,6 +73,7 @@
 </p>
 
 ##
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefrcrazy&show_icons=true&locale=en&layout=compact" alt="thefrcrazy" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefrcrazy&show_icons=true&locale=en" alt="thefrcrazy" /></p>
