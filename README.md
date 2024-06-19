@@ -15,9 +15,6 @@
 </p>
 
 ## 🌐 &nbsp;Contact
-
-[![Twitch Badge](https://img.shields.io/badge/-thefrcrazy-651CA2?style=flat-square&labelColor=651CA2&logo=twitch&logoColor=white&link=https://www.twitch.tv/thefrcrazy)](https://www.twitch.tv/thefrcrazy)
-[![Twitter Badge](https://img.shields.io/badge/-@thefrcrazy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/thefrcrazy)](https://twitter.com/thefrcrazy)
 [![Icloud Badge](https://img.shields.io/badge/-maxcol901@icloud.com-0082FF?style=flat-square&logo=icloud&logoColor=white&link=mailto:maxcol901@icloud.com)](mailto:maxcol901@icloud.com)
 
 ## 🛠 &nbsp;Languages and Tools
