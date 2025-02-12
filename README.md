@@ -15,7 +15,7 @@
 </p>
 
 ## 🌐 &nbsp;Contact
-[![Icloud Badge](https://img.shields.io/badge/-maxcol901@icloud.com-0082FF?style=flat-square&logo=icloud&logoColor=white&link=mailto:maxcol901@icloud.com)](mailto:maxcol901@icloud.com)
+[![Icloud Badge](https://img.shields.io/badge/-maxcol901@icloud.com-0082FF?style=flat-square&logo=icloud&logoColor=white&link=mailto:maxcol901@icloud.com)](mailto:developmax@icloud.com)
 
 ## 🛠 &nbsp;Languages and Tools
 - VS Code settings https://github.com/thefrcrazy/vscode-settings
