@@ -1,76 +1,119 @@
-<h1 align="center">Hi 👋, I'm Maxim Collignon</h1>
-<h3 align="center">Passionate Front-end Developer and JavaScript enthusiast, and video games</h3>
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/Ws9WZvQ.png">
+<h1 align="center"><font color="#6366F1">Hi 👋, I'm Maxim Collignon</font></h1>
+<h3 align="center">🚀 Full Stack Web Developer |  🪚 From Carpenter to Code Crafter</h3>
 
-## 👨🏻‍💻 &nbsp;About Me 
 
-- 🎓 &nbsp; Basically, I am a carpenter, and I reconverted.
-- 🧑‍💻 &nbsp; Self Taught Frontend Developer.
-- 🤔 &nbsp; Passionate about video games, so I create scripts and UI game.
-- 👨🏻‍💻 &nbsp; Freelancer.
 
 <br>
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=thefrcrazy&label=Profile%20views&color=0e75b6&style=flat-square" alt="thefrcrazy" />
-</p>
 
-## 🌐 &nbsp;Contact
-[![Icloud Badge](https://img.shields.io/badge/-developmax@icloud.com-0082FF?style=flat-square&logo=icloud&logoColor=white&link=mailto:developmax@icloud.com)](mailto:developmax@icloud.com)
+## 👨🏻‍💻 About Me 
 
-## 🛠 &nbsp;Languages and Tools
-- VS Code settings https://github.com/thefrcrazy/vscode-settings
+```yaml
+name: Maxim Collignon
+located_in: France 🇫🇷
+current_job: Freelance Full Stack Web Developer
+education: Self-taught Developer (Former Carpenter 🪚)
+
+fields_of_interest:
+  - Web Development
+  - Game UI/UX Design
+  - FiveM Scripts & Resources
+  
+currently_learning:
+  - Rust & System Programming
+  - PostgreSQL & Other Backend Architecture
+  
+hobbies:
+  - Gaming 🎮
+  - Coding side projects
+  - Learning new technologies
+```
+
+<br clear="right"/>
+
+## 🚀 What I Do
+
+- 🎨 **Frontend Development** - Creating responsive and modern web interfaces
+- 🎮 **Game UI Design** - Building immersive interfaces for video games (FiveM, etc.)
+- 📜 **Scripting** - Developing Lua/JS scripts for game servers
+- 💼 **Freelancing** - Available for your projects!
+
+<br>
+
+## 🛠️ Tech Stack
+
+### Languages
 <p>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img alt="HTML" title="HTML" height="55" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg">
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img alt="CSS" title="CSS" height="55" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img alt="JavaScript" title="JavaScript" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  </a>
-  <a href="https://www.lua.org/about.html" target="_blank" rel="noreferrer">
-    <img alt="LUA" title="LUA" height="40" width="auto" src="https://www.vectorlogo.zone/logos/lua/lua-official.svg">
-  </a>
-  <a href="https://fr.wikipedia.org/wiki/Java_(langage)" target="_blank" rel="noreferrer">
-    <img alt="Java" title="Java" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2e/Java_Logo.svg/131px-Java_Logo.svg.png">
-  </a>
-  <a href="https://learn.microsoft.com/fr-fr/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img alt="C#" title="C#" height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png">
-  </a>
-  <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img alt="JQuery" title="JQuery" height="40" width="auto" src="https://www.vectorlogo.zone/logos/jquery/jquery-vertical.svg">
-  </a>
-  <a href="https://angular.io/" target="_blank" rel="noreferrer">
-    <img alt="Angular" title="Angular" height="48" width="auto" src="https://angular.io/assets/images/logos/angular/angular.svg">
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-    <img alt="Sass" title="Sass" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img alt="TypeScript" title="TypeScript" height="40" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  </a>
-  
-  <a href="https://ejs.co/" target="_blank" rel="noreferrer">
-    <img alt="EJS" title="EJS" height="40" width="auto" src="https://cdn.discordapp.com/attachments/1067939114290253895/1070173050353492068/ejs_icon_132422.png">
-  </a>
-  
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img alt="MongoDB" title="MongoDB" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img alt="MySQL" title="MySQL" height="48" width="auto" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img alt="Git" title="Git" height="48" width="auto" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img alt="VSCode" title="VSCode" height="48" width="auto" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
-  </a>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash/Shell"/>
 </p>
 
-##
+### Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white" alt="SolidJS"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+</p>
 
+### Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" alt="Bun.js"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=googlecloud&logoColor=white" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefrcrazy&show_icons=true&locale=en&layout=compact" alt="thefrcrazy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefrcrazy&show_icons=true&locale=en" alt="thefrcrazy" /></p>
+> 🔧 **My VS Code Setup:** [vscode-settings](https://github.com/thefrcrazy/vscode-settings)
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thefrcrazy&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Maxim's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefrcrazy&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefrcrazy&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+</div>
+
+<br>
+
+## 🌐 Let's Connect!
+
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-developmax@icloud.com-6366F1?style=for-the-badge&logo=icloud&logoColor=white)](mailto:developmax@icloud.com)
+[![GitHub](https://img.shields.io/badge/GitHub-thefrcrazy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thefrcrazy)
+
+</div>
+
+<br>
+
+## 💡 Fun Fact
+
+> *"From crafting wood to crafting code — I traded my hammer for a keyboard, but the passion for building things remained the same!"* 🪚➡️💻
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=thefrcrazy&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer" width="100%" />
+</div>
