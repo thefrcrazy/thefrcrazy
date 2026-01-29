@@ -88,7 +88,7 @@ hobbies:
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thefrcrazy&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=thefrcrazy&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 </div>
 
 <br>
