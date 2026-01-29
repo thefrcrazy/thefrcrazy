@@ -83,8 +83,8 @@ hobbies:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thefrcrazy&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Maxim's GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefrcrazy&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img width="49%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=thefrcrazy&show_icons=true&count_private=true&hide_border=true&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Maxim's GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=thefrcrazy&layout=compact&hide_border=true&title_color=6366F1&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -98,7 +98,10 @@ hobbies:
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-developmax@icloud.com-6366F1?style=for-the-badge&logo=icloud&logoColor=white)](mailto:developmax@icloud.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-thefrcrazy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thefrcrazy)
+
+[![Website](https://img.shields.io/badge/Website-develop--max.com-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.develop-max.com/)
 
 </div>
 
