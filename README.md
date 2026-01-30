@@ -14,13 +14,14 @@ current_job: Freelance Full Stack Web Developer
 education: Self-taught Developer (Former Carpenter 🪚)
 
 fields_of_interest:
-  - Web Development
+  - Full Stack Web Development
   - Game UI/UX Design
-  - FiveM Scripts & Resources
+  - Game Development / Modding
   
 currently_learning:
-  - Rust & System Programming
-  - PostgreSQL & Other Backend Architecture
+  - Rust
+  - Backend Architecture
+  - GodotEngine
   
 hobbies:
   - Gaming 🎮
@@ -33,8 +34,8 @@ hobbies:
 ## 🚀 What I Do
 
 - 🎨 **Frontend Development** - Creating responsive and modern web interfaces
-- 🎮 **Game UI Design** - Building immersive interfaces for video games (FiveM, etc.)
-- 📜 **Scripting** - Developing Lua/JS scripts for game servers
+- 🎮 **Game UI Design** - Building immersive interfaces for video games (Formerly FiveM, etc.)
+- 📜 **Scripting** - Developing Lua/JS scripts for game servers (Past experience)
 - 💼 **Freelancing** - Available for your projects!
 
 <br>
@@ -74,6 +75,9 @@ hobbies:
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Trae-E63946?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiB4PSIzIiB5PSIzIiByeD0iNCIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNOCAxMmg4IiBzdHJva2U9IiNFNjM5NDYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PC9zdmc+&logoColor=white" alt="Trae"/>
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity"/>
 </p>
 
 > 🔧 **My VS Code Setup:** [vscode-settings](https://github.com/thefrcrazy/vscode-settings)
